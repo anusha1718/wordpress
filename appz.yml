@@ -38,7 +38,7 @@ properties:
   MYSQL_DATABASE: wordpress
   ADMIN_USER: wpadmin
   ADMIN_EMAIL: appzdev@cloudbourne.co
-  SITE_URL: "https://anusha1718-dev-wordpress-5-5.appzdemo.com"
+  SITE_URL: "https://anusha1718-dev-wordpress-5-5.appzclient.com"
   SITE_TITLE: "Wordpress AppZ Workshop Demo"
   MYSQL_PASSWORD:
      vault: MYSQL_PASSWORD_KEY
